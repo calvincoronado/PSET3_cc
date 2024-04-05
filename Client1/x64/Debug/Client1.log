@@ -1,0 +1,9 @@
+﻿  Client1.cpp
+C:\Users\Calvin\Desktop\VINCE SCHOOL\2nd term 4th\STDISCM\ParticleSimulator-CPP-Distributed-Particle-Simulator\Problem-Set3\Problem-Set3\Client1\Client1.cpp(340,54): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Calvin\Desktop\VINCE SCHOOL\2nd term 4th\STDISCM\ParticleSimulator-CPP-Distributed-Particle-Simulator\Problem-Set3\Problem-Set3\Client1\Client1.cpp(373,54): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Calvin\Desktop\VINCE SCHOOL\2nd term 4th\STDISCM\ParticleSimulator-CPP-Distributed-Particle-Simulator\Problem-Set3\Problem-Set3\Client1\Client1.cpp(404,54): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Calvin\Desktop\VINCE SCHOOL\2nd term 4th\STDISCM\ParticleSimulator-CPP-Distributed-Particle-Simulator\Problem-Set3\Problem-Set3\Client1\Client1.cpp(435,54): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Calvin\Desktop\VINCE SCHOOL\2nd term 4th\STDISCM\ParticleSimulator-CPP-Distributed-Particle-Simulator\Problem-Set3\Problem-Set3\Client1\Client1.cpp(579,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Calvin\Desktop\VINCE SCHOOL\2nd term 4th\STDISCM\ParticleSimulator-CPP-Distributed-Particle-Simulator\Problem-Set3\Problem-Set3\Client1\Client1.cpp(609,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Calvin\Desktop\VINCE SCHOOL\2nd term 4th\STDISCM\ParticleSimulator-CPP-Distributed-Particle-Simulator\Problem-Set3\Problem-Set3\Client1\Client1.cpp(675,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Client1.vcxproj -> C:\Users\Calvin\Desktop\VINCE SCHOOL\2nd term 4th\STDISCM\ParticleSimulator-CPP-Distributed-Particle-Simulator\Problem-Set3\Problem-Set3\x64\Debug\Client1.exe

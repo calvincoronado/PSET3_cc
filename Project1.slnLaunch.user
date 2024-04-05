@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Name": "Project1\\Project1.vcxproj",
+        "Action": "Start",
+        "DebugTarget": ""
+      },
+      {
+        "Name": "Client1\\Client1.vcxproj",
+        "Action": "Start",
+        "DebugTarget": ""
+      }
+    ]
+  }
+]
